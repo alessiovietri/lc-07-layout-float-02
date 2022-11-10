@@ -12,3 +12,6 @@ https://www.fontsquirrel.com/matcherator
 
 CDNFonts
 https://www.cdnfonts.com
+
+Github HTML preview
+https://htmlpreview.github.io Grazie a Darius
